@@ -2,7 +2,7 @@
 
 A simple Weather App built with **React + Vite** that shows real-time weather data using [OpenWeatherMap API](https://openweathermap.org/).
 ## 🔗 Live Demo
-👉 [Click Here](https://SonamSrivastava555.github.io/weather-app/) 
+👉 [Click Here](https://sonamsrivastava555.github.io/Weather-App/) 
 
 ## 🚀 Features
 - Search weather by city name 🌍
