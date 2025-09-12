@@ -55,8 +55,8 @@ max-width: 400px;
     color: white;
     display: flex;
     justify-content: space-between;
+     align-items: center;
     gap: 20px;
-  flex-wrap: wrap;
 }
 .weather-data .col{
     display: flex;
