@@ -93,6 +93,9 @@ max-width: 400px;
     gap: 15px;
   }
 }
+.humidity-icon {
+  filter: invert(55%) sepia(80%) saturate(300%) hue-rotate(180deg);
+}
 @media (max-width: 480px) {
   .Weather {
     padding: 15px;
