@@ -53,7 +53,7 @@ useEffect(() => {
        </div>
        {weatherData?<>
        <img src={weatherData.icon} alt="" className='clear_icon' />
-      <p className='temprature'>{weatherData.temprature}°C</p>
+      <p className='temprature'> today temp:{weatherData.temprature}°C</p>
       <p className='location'>{weatherData. location}</p>
       <div className="weather-data">
         <div className="col">
